@@ -7,7 +7,7 @@ export default function AboutMe() {
                         About Me
                     </h1>
                     <p className="hero--section-description">
-                        Lorem 3feowbfjief
+                        About me paragraph
                     </p>
                 </div>
             </div>
