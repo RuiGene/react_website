@@ -3,7 +3,7 @@ import MySkills from "../Home/MySkills";
 import AboutMe from "../Home/AboutMe";
 import MyPortfolio from "../Home/MyPortfolio";
 import Footer from "../Home/Footer";
-import TimelineHistory from "../Home/Testimonials";
+import TimelineHistory from "../Home/TimelineHistory";
 
 export default function Home() {
     return (
